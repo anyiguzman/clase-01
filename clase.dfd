@@ -1,0 +1,26 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+8
+edad,a,b
+7
+0
+1
+39
+edad>=13 and edad<=17 and a=b and b=230
+4
+1
+19
+"no es adolecente" 
+13
+4
+1
+18
+"si es adolecente"
+13
+1
